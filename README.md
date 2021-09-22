@@ -8,4 +8,4 @@ This project was inspired by [Lynn's DevLab](https://www.youtube.com/channel/UCZ
 
 Sources that I used for this project: [Video](https://youtu.be/UjDpW_SOrlw), [Github Source](https://github.com/RuolinZheng08/twewy-discord-chatbot), [freecodecamp](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
 
-<img src="demo.gif" width="40" height="40"/>
+<img src="demo.gif" width="500px" height="500px"/>
