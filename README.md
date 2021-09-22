@@ -6,7 +6,7 @@ Add my bot to your Discord server - <b>[rfBot](https://discord.com/api/oauth2/au
 
 This project was inspired by [Lynn's DevLab](https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw) 
 
-<b>Sources that I used for this project:<b> [Video](https://youtu.be/UjDpW_SOrlw), [Github Source](https://github.com/RuolinZheng08/twewy-discord-chatbot), [freecodecamp](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
+<b>Sources that I used for this project:</b> [Video](https://youtu.be/UjDpW_SOrlw), [Github Source](https://github.com/RuolinZheng08/twewy-discord-chatbot), [freecodecamp](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
   
   <i>I use this for educational purposes and not for commercial purposes.</i>
 
