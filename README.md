@@ -21,3 +21,5 @@ This project was inspired by <b>[Lynn's DevLab](https://www.youtube.com/channel/
 - [HuggingFace](https://huggingface.co/)
 - [Discord Developer Portal](https://discord.com/developers/docs)
 - [UptimeRobot](https://uptimerobot.com/)
+
+<b>Note:</b> <i>I make this project for educational purpose only and not for commercial purpose</i>
