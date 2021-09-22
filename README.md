@@ -1,4 +1,4 @@
-**rfBot - DiscordChatBot**
+<h1>rfBot - DiscordChatBot</h1>
 
 An AI Discord Chatbot that you can talk to if you are alone. 
 
