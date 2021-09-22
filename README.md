@@ -4,7 +4,7 @@ An AI Python-Based Discord Chatbot that speaks like Joshua from TWEWY which you 
 
 Add my bot to your Discord server - <b>[rfBot](https://discord.com/api/oauth2/authorize?client_id=890168520883699722&amp;permissions=2048&amp;scope=bot)</b>
 
-This project was inspired by <b>[Lynn's DevLab](https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw)</b>
+This project was adapted from <b>[Lynn's DevLab](https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw)</b> Discord ChatBot video.
 
 <b>A little demo:</b>
 
