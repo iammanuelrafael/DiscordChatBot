@@ -1,6 +1,6 @@
 <h1>rfBot - DiscordChatBot</h1>
 
-An AI Discord Chatbot that you can talk to if you are alone. 
+An AI Python-Based Discord Chatbot that you can talk to if you are alone. 
 
 Add my bot to your Discord server - [rfBot](https://discord.com/api/oauth2/authorize?client_id=890168520883699722&amp;permissions=2048&amp;scope=bot)
 
